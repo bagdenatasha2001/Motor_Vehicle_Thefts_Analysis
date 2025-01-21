@@ -15,18 +15,6 @@ Stolen vehicle data from the New Zealand police department's vehicle of interest
 - [**DATASET LINK**](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=motor)
 
 
-## Key Insights:
-- The dataset indicates that a total of 4,553 vehicles were reported stolen.
-- The average age of the vehicles stolen is 23 years.
-- The dataset reveals a sharp increase in vehicle thefts after March 2022.
-- The data indicates that over 95% of stolen vehicles are classified as standard vehicles.
-- The Oakland region has the highest number of vehicle theft incidents compared to other regions.
-- The Oakland region also has a large population, and the data shows that theft incidences are higher in more densely populated regions.
-- The station wagon vehicle type is the most frequently targeted for theft.
-- Monday experiences the highest number of vehicle theft incidents compared to other days of the week.
-
-
-
 ## Project Objectives:
 
  The primary objective of the Motor Vehicle Theft Analysis Dashboard is to provide comprehensive insights into the patterns and trends of motor vehicle thefts in New Zealand. 
@@ -52,6 +40,17 @@ Stolen vehicle data from the New Zealand police department's vehicle of interest
 <img src="https://github.com/bagdenatasha2001/Motor_Vehicle_Thefts_Analysis/blob/main/Images/Location_details.png" width="1200" height="500"> &nbsp;
 
 <img src="https://github.com/bagdenatasha2001/Motor_Vehicle_Thefts_Analysis/blob/main/Images/Time_details.png" width="1200" height="500"> &nbsp;
+
+
+## Key Insights:
+- The dataset indicates that a total of 4,553 vehicles were reported stolen.
+- The average age of the vehicles stolen is 23 years.
+- The dataset reveals a sharp increase in vehicle thefts after March 2022.
+- The data indicates that over 95% of stolen vehicles are classified as standard vehicles.
+- The Oakland region has the highest number of vehicle theft incidents compared to other regions.
+- The Oakland region also has a large population, and the data shows that theft incidences are higher in more densely populated regions.
+- The station wagon vehicle type is the most frequently targeted for theft.
+- Monday experiences the highest number of vehicle theft incidents compared to other days of the week.
 
 
  ## Conclusion :
