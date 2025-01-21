@@ -6,6 +6,14 @@ This repository contains a Power BI project analyzing motor vehicle theft data s
 
 Stolen vehicle data from the New Zealand police department's vehicle of interest database containing 6 months of data. Each record represents a single stolen vehicle, with data on vehicle type, make, year, color, date stolen and region stolen.
 
+## Tools & Technologies
+- Power BI: Used for creating visualizations and building an interactive dashboard.
+- DAX (Data Analysis Expressions): Used to create measures and calculated columns for advanced data analysis.
+
+- ## Dataset Overview
+- **Data source:** Internet
+- [**DATASET LINK**](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=motor)
+
 
 ## Key Features:
 
